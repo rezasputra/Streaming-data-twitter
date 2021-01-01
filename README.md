@@ -6,3 +6,7 @@ Twitter data stream.py berisikan program untuk terhubung dengan twitter api dan 
 ETL proses.py berikan program untuk melakukan proses ekstraksi dari consumer kafka, transform untuk merubah data agar sesuai dengan skema yang telah ditentukan sehingga dapat dilakukan load kedalam phpmyadmin
 
 Dump data.py berisikan program untuk mengambil seluruh data yang telah di load untuk dijadikan sebagai file csv
+
+Contoh evaluasi Machine learning yang digunakan adalah Clustering yang dapat di lihat pada https://colab.research.google.com/drive/1mkUqC8y_iAIVnMvELVOez5cvRBvWEvTH?usp=sharing
+
+
